@@ -6,3 +6,5 @@ v1.29.391   --https://graugear.de/wp-content/uploads/2022/09/G-M202-AC-10G-Mptol
 v1.31.17    --mkuo
 
 v1.32.16    --jeyi
+
+v1.32.49    --jeyi, not tested
